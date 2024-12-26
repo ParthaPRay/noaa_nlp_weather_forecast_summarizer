@@ -405,6 +405,165 @@ python -m spacy download en_core_web_trf
 }
 ```
 
+## Summary
+
+```python
+Here's a summary of the weather forecast for the upcoming days:
+
+**Today:** 
+- Temperature: 62°F, falling to around 60°F in the afternoon.
+- Conditions: Patchy fog, rain showers, and thunderstorms expected, especially before noon.
+- Winds: NNE at 0 to 5 mph.
+- Chance of precipitation: 90%, with rainfall amounts between 0.5 to 0.75 inches.
+
+**Friday:** 
+- Temperature: 68°F, falling to around 64°F in the afternoon.
+- Conditions: Patchy fog in the morning, then mostly sunny.
+- Winds: SW at 0 to 10 mph.
+
+**Saturday:** 
+- Temperature: 70°F, falling to around 65°F in the afternoon.
+- Conditions: Mostly sunny.
+- Winds: WSW at 5 to 10 mph.
+
+**Sunday:** 
+- Temperature: 69°F.
+- Conditions: Sunny.
+- Winds: SW at 0 to 5 mph.
+
+**Monday:** 
+- Temperature: 76°F.
+- Conditions: Sunny.
+- Winds: SW at 5 to 10 mph, with gusts up to 25 mph.
+
+**Tuesday:** 
+- Temperature: 60°F.
+- Conditions: Sunny.
+- Winds: N at 5 to 10 mph.
+
+**New Year's Day:** 
+- Temperature: 56°F.
+- Conditions: Mostly sunny.
+- Winds: NNE at 5 mph.
+
+Overall, expect a mix of rain and thunderstorms today, followed by a warming trend with mostly sunny conditions through the weekend and into the start of the new year.
+```
+
+
+## Detailed Forecasts
+
+```python
+day 1 forecast suggests A chance of rain showers and patchy fog before 9am, then patchy fog and showers and thunderstorms between 9am and noon, then patchy fog and showers and thunderstorms. Cloudy. High near 62, with temperatures falling to around 60 in the afternoon. North northeast wind 0 to 5 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. day 2 forecast suggests Patchy fog after 2am. Mostly cloudy, with a low around 49. West northwest wind 0 to 5 mph. day 3 forecast suggests Patchy fog before 10am. Mostly sunny. High near 68, with temperatures falling to around 64 in the afternoon. Southwest wind 0 to 10 mph. day 4 forecast suggests Partly cloudy, with a low around 48. South southwest wind around 5 mph. day 5 forecast suggests Mostly sunny. High near 70, with temperatures falling to around 65 in the afternoon. West southwest wind 5 to 10 mph. day 6 forecast suggests Mostly clear. Low around 45, with temperatures rising to around 47 overnight. West northwest wind 0 to 5 mph. day 7 forecast suggests Sunny, with a high near 69. Southwest wind 0 to 5 mph. day 8 forecast suggests Mostly clear, with a low around 50. South wind around 5 mph. day 9 forecast suggests Sunny, with a high near 76. Southwest wind 5 to 10 mph, with gusts as high as 25 mph. day 10 forecast suggests Clear, with a low around 44. day 11 forecast suggests Sunny, with a high near 60. day 12 forecast suggests Mostly clear, with a low around 38. day 13 forecast suggests Mostly sunny, with a high near 56. day 14 forecast suggests Partly cloudy, with a low around 36.
+```
+
+## Detailed Forecast Summary
+
+
+```json
+Here's a detailed summary of the weather forecast over the next two weeks:
+
+**Day 1:**
+- **Weather:** Chance of rain showers and patchy fog before 9 AM, followed by showers and thunderstorms from 9 AM to noon, continuing with patchy fog and thunderstorms throughout the day.
+- **Temperature:** High near 62°F, dropping to around 60°F in the afternoon.
+- **Wind:** North northeast at 0 to 5 mph.
+- **Precipitation:** 90% chance of rain, with expected rainfall amounts between 0.5 to 0.75 inches.
+
+**Day 2:**
+- **Weather:** Patchy fog after 2 AM, mostly cloudy throughout the day.
+- **Temperature:** Low around 49°F.
+- **Wind:** West northwest at 0 to 5 mph.
+
+**Day 3:**
+- **Weather:** Patchy fog before 10 AM, mostly sunny for the rest of the day.
+- **Temperature:** High near 68°F, falling to around 64°F in the afternoon.
+- **Wind:** Southwest at 0 to 10 mph.
+
+**Day 4:**
+- **Weather:** Partly cloudy.
+- **Temperature:** Low around 48°F.
+- **Wind:** South southwest at around 5 mph.
+
+**Day 5:**
+- **Weather:** Mostly sunny.
+- **Temperature:** High near 70°F, dropping to around 65°F in the afternoon.
+- **Wind:** West southwest at 5 to 10 mph.
+
+**Day 6:**
+- **Weather:** Mostly clear.
+- **Temperature:** Low around 45°F, with temperatures rising to around 47°F overnight.
+- **Wind:** West northwest at 0 to 5 mph.
+
+**Day 7:**
+- **Weather:** Sunny.
+- **Temperature:** High near 69°F.
+- **Wind:** Southwest at 0 to 5 mph.
+
+**Day 8:**
+- **Weather:** Mostly clear.
+- **Temperature:** Low around 50°F.
+- **Wind:** South at around 5 mph.
+
+**Day 9:**
+- **Weather:** Sunny.
+- **Temperature:** High near 76°F.
+- **Wind:** Southwest at 5 to 10 mph, with gusts up to 25 mph.
+
+**Day 10:**
+- **Weather:** Clear.
+- **Temperature:** Low around 44°F.
+
+**Day 11:**
+- **Weather:** Sunny.
+- **Temperature:** High near 60°F.
+
+**Day 12:**
+- **Weather:** Mostly clear.
+- **Temperature:** Low around 38°F.
+
+**Day 13:**
+- **Weather:** Mostly sunny.
+- **Temperature:** High near 56°F.
+
+**Day 14:**
+- **Weather:** Partly cloudy.
+- **Temperature:** Low around 36°F.
+
+Overall, the forecast indicates a wet start with thunderstorms on Day 1, transitioning to mostly sunny and clear conditions in the following days, with temperatures gradually warming up towards Day 9.
+```
+
+## Short Forecasts
+
+```json
+day 1 forecast suggests Patchy Fog day 2 forecast suggests Mostly Cloudy then Patchy Fog day 3 forecast suggests Patchy Fog then Mostly Sunny day 4 forecast suggests Partly Cloudy day 5 forecast suggests Mostly Sunny day 6 forecast suggests Mostly Clear day 7 forecast suggests Sunny day 8 forecast suggests Mostly Clear day 9 forecast suggests Sunny day 10 forecast suggests Clear day 11 forecast suggests Sunny day 12 forecast suggests Mostly Clear day 13 forecast suggests Mostly Sunny day 14 forecast suggests Partly Cloudy
+```
+
+
+## Short Forecast Summary
+
+
+```json
+Here's a summary of the weather forecast for the next 14 days:
+
+- **Day 1**: Patchy Fog
+- **Day 2**: Mostly Cloudy, then Patchy Fog
+- **Day 3**: Patchy Fog, then Mostly Sunny
+- **Day 4**: Partly Cloudy
+- **Day 5**: Mostly Sunny
+- **Day 6**: Mostly Clear
+- **Day 7**: Sunny
+- **Day 8**: Mostly Clear
+- **Day 9**: Sunny
+- **Day 10**: Clear
+- **Day 11**: Sunny
+- **Day 12**: Mostly Clear
+- **Day 13**: Mostly Sunny
+- **Day 14**: Partly Cloudy
+
+Overall, expect a mix of fog, clouds, and plenty of sunny days ahead!
+```
+
+
+
 ## Screenshots
 
 (Add screenshots here)
