@@ -9,6 +9,11 @@
 # Detailed forecast + detailed summary
 # Short forecat + short summary
 
+#### NOAA API WEATHER FORECAST SUMMARIZATION
+# NOAA Raw Response + Sumarize weather forecast 
+# Detailed forecast + detailed summary
+# Short forecat + short summary
+######## OpenaAI summarization
 
 import os
 import json
@@ -23,9 +28,9 @@ import gradio as gr
 
 # NEW (OpenAI v1 migration)
 from openai import OpenAI
-# Hardcode your API key here  enter your own openai api key
+# Hardcode your API key here
 client = OpenAI(
-    api_key="YOUR_OPENAI_API_KEY"  # <-- Replace with your actual key
+    api_key="YOUR_OPENAI_API"  # <-- Replace with your actual key
 )
 
 # ---------------------- Configuration ----------------------
@@ -449,7 +454,7 @@ if __name__ == "__main__":
         logging.info("Using CPU for summarization calls to GPT-4o-mini.")
 
     with gr.Blocks() as demo:
-        gr.Markdown("# NOAA API Weather Forecast Summarizer by usig Spacy and OpenAI")
+        gr.Markdown("# NOAA API Weather Forecast Summarizer by using Spacy and OpenAI")
         gr.Markdown("""
         Developed by **Partha Pratim Ray**, **parthapratimray1986@gmail.com**
         """)
