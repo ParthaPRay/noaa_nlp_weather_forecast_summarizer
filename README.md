@@ -1,4 +1,4 @@
-# NOAA Weather Summarizer
+# NOAA Weather Forecast Summarizer NLP and OpenAI
 
 ## Overview
 
