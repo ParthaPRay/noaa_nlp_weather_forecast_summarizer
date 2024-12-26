@@ -69,12 +69,12 @@ This will launch a Gradio interface where you can input latitude and longitude v
 ### `requirements.txt`
 
 ```
-cachetools==5.3.0
-gr==3.38.0
-requests==2.31.0
-spacy==3.6.0
-openai==0.27.8
-torch==2.0.1  # Optional for GPU checks
+cachetools
+gradio
+requests
+spacy
+openai
+torch  # Optional for GPU checks
 ```
 
 ## Screenshots
