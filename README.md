@@ -99,3 +99,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## Contact
 
 For issues or inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
+
