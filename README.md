@@ -81,6 +81,10 @@ gradio
 python -m spacy download en_core_web_trf
 ```
 
+**RESTART SESSION**
+
+
+
 ## Sample RAW Data JSON from NOAA API
 
 ```json
