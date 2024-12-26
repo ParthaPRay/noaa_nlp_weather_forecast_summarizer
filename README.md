@@ -77,6 +77,9 @@ openai
 torch  # Optional for GPU checks
 ```
 
+```python
+python -m spacy download en_core_web_trf
+```
 ## Screenshots
 
 (Add screenshots here)
