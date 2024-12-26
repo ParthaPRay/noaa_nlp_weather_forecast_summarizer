@@ -1,0 +1,6 @@
+cachetools
+gradio
+requests
+spacy
+openai
+torch  # Optional for GPU checks
