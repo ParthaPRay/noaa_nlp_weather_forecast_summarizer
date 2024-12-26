@@ -568,6 +568,18 @@ Overall, expect a mix of fog, clouds, and plenty of sunny days ahead!
 
 ![image](https://github.com/user-attachments/assets/edf7d67a-dbe7-4c5c-ba00-95161ff70c2b)
 
+![image](https://github.com/user-attachments/assets/ec0c858e-8609-414e-8401-9f4eb01ae3ce)
+
+
+![image](https://github.com/user-attachments/assets/567c4497-d8cf-4192-99bb-dc8e6c80c9c2)
+
+![image](https://github.com/user-attachments/assets/dae1d6e8-262f-4cf3-a9a9-f4cfc355fee0)
+
+
+![image](https://github.com/user-attachments/assets/c945188d-0043-425e-a974-5a56a4689870)
+
+![image](https://github.com/user-attachments/assets/03af3eb3-58f2-4bf7-bcce-dcf4986722c3)
+
 
 
 
