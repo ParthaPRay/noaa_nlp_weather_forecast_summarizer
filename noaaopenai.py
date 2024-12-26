@@ -15,6 +15,15 @@
 # Short forecat + short summary
 ######## OpenaAI summarization
 
+
+### Install
+
+## pip install -r requirements.txt
+
+## python -m spacy download en_core_web_trf
+
+###
+
 import os
 import json
 import logging
