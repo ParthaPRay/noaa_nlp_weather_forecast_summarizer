@@ -459,7 +459,7 @@ day 1 forecast suggests A chance of rain showers and patchy fog before 9am, then
 ## Detailed Forecast Summary
 
 
-```json
+```python
 Here's a detailed summary of the weather forecast over the next two weeks:
 
 **Day 1:**
@@ -533,7 +533,7 @@ Overall, the forecast indicates a wet start with thunderstorms on Day 1, transit
 
 ## Short Forecasts
 
-```json
+```python
 day 1 forecast suggests Patchy Fog day 2 forecast suggests Mostly Cloudy then Patchy Fog day 3 forecast suggests Patchy Fog then Mostly Sunny day 4 forecast suggests Partly Cloudy day 5 forecast suggests Mostly Sunny day 6 forecast suggests Mostly Clear day 7 forecast suggests Sunny day 8 forecast suggests Mostly Clear day 9 forecast suggests Sunny day 10 forecast suggests Clear day 11 forecast suggests Sunny day 12 forecast suggests Mostly Clear day 13 forecast suggests Mostly Sunny day 14 forecast suggests Partly Cloudy
 ```
 
@@ -541,7 +541,7 @@ day 1 forecast suggests Patchy Fog day 2 forecast suggests Mostly Cloudy then Pa
 ## Short Forecast Summary
 
 
-```json
+```python
 Here's a summary of the weather forecast for the next 14 days:
 
 - **Day 1**: Patchy Fog
@@ -566,7 +566,8 @@ Overall, expect a mix of fog, clouds, and plenty of sunny days ahead!
 
 ## Screenshots
 
-(Add screenshots here)
+![image](https://github.com/user-attachments/assets/edf7d67a-dbe7-4c5c-ba00-95161ff70c2b)
+
 
 
 
